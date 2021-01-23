@@ -1,6 +1,6 @@
-#Simple herramienta echa en bash para identificar los puertos TCP abiertos poniendo una ip
+# Simple herramienta echa en bash para identificar los puertos TCP abiertos poniendo una ip
 
-*FUNCIONA EN LINUX TERMUX Y WINDOWS
+*Funciona en linux windows y termux
    
 *USO=darle permisos- chmod +x portscan.sh
 
